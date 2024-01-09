@@ -1,3 +1,7 @@
+#Eclipse 
+*.project
+*.class
+
 # Compiled class file
 *.class
 
